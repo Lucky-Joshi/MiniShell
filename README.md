@@ -124,7 +124,7 @@ Goodbye! 👋
 
 **Lucky Joshi**
 Student, Developer, Programmer
-GitHub: *\[your\_github\_here]*
+GitHub: *\[https://github.com/Lucky-Joshi]*
 
 ---
 
