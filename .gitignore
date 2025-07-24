@@ -1,0 +1,29 @@
+# Compiled source files
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+
+# Editor files
+*.swp
+*~
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+venv/
+__pycache__/
+
+# Build directories
+build/
+dist/
